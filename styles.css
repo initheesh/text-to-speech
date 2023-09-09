@@ -93,4 +93,11 @@ button:hover{
     textarea{
         max-width: 90%;
     }
+    body{
+        margin-top: 2rem;
+        align-items: start;
+    }
+    .card h2{
+        font-size: 2rem;
+    }
 }
