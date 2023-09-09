@@ -86,3 +86,11 @@ button:hover{
     
     
 }
+@media screen and (max-width: 768px) {
+    .card {
+        max-width: 90%;
+    }
+    textarea{
+        max-width: 90%;
+    }
+}
